@@ -1,5 +1,3 @@
-# Commands 
-Here are the list of the commands 
+# READ ME
 
-# You are noob
-yes you are noob and i have no doubt in it
+this will be updated once bot is done!!
